@@ -1,5 +1,5 @@
 server:
-  port: 8914
+  port: 8998
 
 entry:
   dashboard:
