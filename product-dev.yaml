@@ -4,4 +4,4 @@ server:
 entry:
   dashboard:
     username: guest
-    password: guest
+    password: 123456
