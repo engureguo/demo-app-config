@@ -1,0 +1,7 @@
+server:
+  port: 8914
+
+entry:
+  dashboard:
+    username: guest
+    password: guest
