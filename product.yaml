@@ -1,0 +1,10 @@
+#
+# 编写所有环境共用的配置
+#
+spring:
+  application:
+    name: PRODUCTS
+  cloud:
+    consul:
+      host: localhost
+      port: 8500
