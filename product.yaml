@@ -4,6 +4,12 @@
 spring:
   application:
     name: PRODUCTS
+  # 集成消息总线，配置rabbitmq
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
   cloud:
     consul:
       host: localhost
